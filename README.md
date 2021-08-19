@@ -1,3 +1,3 @@
-# NarendraSingleForkWithExternalLinking__external
+# NarendraSingleForkWithExternalLinking__internal
 
-NarendraSingleForkWithExternalLinking__external repository
+NarendraSingleForkWithExternalLinking__internal repository
